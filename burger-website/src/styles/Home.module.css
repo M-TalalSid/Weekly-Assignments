@@ -1,0 +1,77 @@
+/* General Styles */
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #ff5722;
+    padding: 20px 0;
+    color: white;
+  }
+  
+  .nav ul {
+    list-style: square;
+    padding: 0;
+  }
+  
+  .nav ul li {
+    display: inline;
+    margin: 0 20px;
+  }
+  
+  .nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .main {
+    padding: 50px 20px;
+  }
+  
+  .hero {
+    background-color: #ffe0b2;
+    padding: 50px;
+    border-radius: 10px;
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+  }
+  
+  .menuList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menuList li {
+    font-size: 1.2rem;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffcc80;
+    border-radius: 5px;
+  }
+  
+  .menuList li:hover {
+    background-color: #ffab40;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .mapContainer {
+    margin-top: 20px;
+  }
+  

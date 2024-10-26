@@ -11,7 +11,7 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only With The Hilink Application You Will No Longer Get Lost Again, Because We Already Support Offline Maps When There Is No Internet Connection In The Field. Invite Your Friends, Relatives And Friends To Have Fun In The Wilderness Through The Valley And Reach The Top Of The Mountain</p>
         </div>
       </div>
 
@@ -42,7 +42,7 @@ const Guide = () => {
             </div>
 
             <div className='flex w-full flex-col'>
-              <p className="regular-16 text-gray-20">Start track</p>
+              <p className="regular-16 text-gray-20">Start Track</p>
               <h4 className="bold-20 mt-2 whitespace-nowrap">Wonorejo Pasuruan</h4>
             </div>
           </div>
@@ -50,6 +50,6 @@ const Guide = () => {
       </div>
     </section>
   )
-}
+};
 
-export default Guide
+export default Guide;

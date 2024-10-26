@@ -16,7 +16,7 @@ const Hero = () => {
         />
         <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-          We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
+          We Want To Be On Each Of Your Journeys Seeking The Satisfaction Of Seeing The Incorruptible Beauty Of Nature. We Can Help You On An Adventure Around The World In Just One App
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">
@@ -37,19 +37,14 @@ const Hero = () => {
             <span className="regular-16 lg:regular-20 ml-1">Excellent Reviews</span>
           </p>
         </div>
-
         <div className="flex flex-col w-full gap-3 sm:flex-row">
           <Button 
             type="button" 
             title="Download App" 
-            variant="btn_green" 
+            variant="btn_green"
+            full
           />
-          <Button 
-            type="button" 
-            title="How we work?" 
-            icon="/play.svg"
-            variant="btn_white_text" 
-          />
+       
         </div>
       </div>
 
@@ -78,6 +73,6 @@ const Hero = () => {
       </div>
     </section>
   )
-}
+};
 
-export default Hero
+export default Hero;

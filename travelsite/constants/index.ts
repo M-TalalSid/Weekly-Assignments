@@ -18,32 +18,32 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'Real Maps Can Be Offline',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'We Provide A Solution For You To Be Able To Use Our Application When Climbing, Yes Offline Maps You Can Use At Any Time There Is No Signal At The Location',
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'Set An Adventure Schedule',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Schedule An Adventure With Friends. On Holidays, There Are Many Interesting Offers From Hilink. That Way, There's No More Discussion",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Technology Using Augment Reality',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+        'Technology Uses Augmented Reality As A Guide to Your Hiking Trail In The Forest To The Top Of The Mountain. Already Supported By The Latest Technology Without An Internet Connection',
     },
     {
-      title: 'Many new locations every month',
+      title: 'Many New Locations Every Month',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        'Lots Of New Locations Every Month, Because We Have A Worldwide Community Of Climbers Who Share Their Best Experiences With Climbing',
     },
   ];
   
@@ -69,8 +69,8 @@ export const NAV_LINKS = [
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Phone No ', value: '+92-301-021-9324' },
+      { label: 'Email ', value: 'talalshoaib1991@gmail.com' },
     ],
   };
   

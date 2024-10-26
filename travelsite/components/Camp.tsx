@@ -45,7 +45,7 @@ const CampSite = ({ backgroundImage, title, subtitle, peopleJoined }: CampProps)
      </div>
     </div>
   )
-}
+};
 
 const Camp = () => {
   return (
@@ -84,6 +84,6 @@ const Camp = () => {
       </div>
     </section>
   )
-}
+};
 
-export default Camp
+export default Camp;

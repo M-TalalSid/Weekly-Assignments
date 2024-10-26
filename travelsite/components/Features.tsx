@@ -41,7 +41,7 @@ const Features = () => {
       </div>
     </section>
   )
-}
+};
 
 type FeatureItem = {
   title: string;
@@ -63,6 +63,6 @@ const FeatureItem = ({ title, icon, description }: FeatureItem) => {
       </p>
     </li>
   )
-}
+};
 
-export default Features
+export default Features;

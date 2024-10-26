@@ -59,16 +59,16 @@ const Footer = () => {
         </div>
 
         <div className="border bg-gray-20" />
-        <p className="regular-14 w-full text-center text-gray-30">2023 Hilink | All rights reserved</p>
+        <p className="regular-14 w-full text-center text-gray-30">Copyright © 2023 Hilink | All Rights Reserved | Talal Shoaib</p>
       </div>
     </footer>
   )
-}
+};
 
 type FooterColumnProps = {
   title: string;
   children: React.ReactNode;
-}
+};
 
 const FooterColumn = ({ title, children }: FooterColumnProps) => {
   return (
@@ -77,6 +77,6 @@ const FooterColumn = ({ title, children }: FooterColumnProps) => {
       {children}
     </div>
   )
-}
+};
 
-export default Footer
+export default Footer;

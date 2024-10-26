@@ -6,7 +6,7 @@ type ButtonProps  = {
     icon?: string ;
     variant: string ;
     full?: boolean ;
-}
+};
 
 const Button = ( {type, title, icon, variant, full}: ButtonProps ) => {
   return (
@@ -19,6 +19,6 @@ const Button = ( {type, title, icon, variant, full}: ButtonProps ) => {
       <label className="bold-16 whitespace-nowrap cursor-pointer"></label>
     </button>
   )
-}
+};
 
-export default Button
+export default Button;
